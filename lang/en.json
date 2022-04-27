@@ -1,4 +1,16 @@
 {
+    "_1": "-------------------------------------------------------------------",
+
+    "_2": "This Source Code Form is subject to the terms of the Mozilla Public",
+    "_3": "License, v. 2.0. If a copy of the MPL was not distributed with this",
+    "_4": "file, You can obtain one at http://mozilla.org/MPL/2.0/.",
+
+    "_5": "This Source Code Form is \"Incompatible With Secondary Licenses\",",
+    "_6": "as defined by the Mozilla Public License, v. 2.0.",
+
+    "_7": "-------------------------------------------------------------------",
+
+    
     "error_premium_required": "You do not have Aunto Premium. If you'd like to find out more information on Aunto Premium or want to purchase it, head to [aunto.xyz/premium](https://aunto.xyz/premium).",
     "error_premium_max_servers": "You have reached the maximum number of servers you can activate Aunto Premium in. You can update your subscription at [billing.aunto.xyz](https://billing.aunto.xyz).",
     "premium_activated": "Aunto Premium has been activated for {{GUILD_NAME}}.",
