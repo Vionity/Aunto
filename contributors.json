@@ -1,0 +1,16 @@
+{
+    "developers": [
+        {
+            name: "olli",
+            title: "Owner",
+            url: "https://olli.gq"
+        }
+    ],
+    "contributors": [
+        {
+            name: "AspecterKW",
+            title: "Languages: Arabic",
+            url: "https://github.com/AspecterKW"
+        }
+    ]
+}
