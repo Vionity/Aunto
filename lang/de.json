@@ -63,5 +63,5 @@
     "log_member_add_field_2": "{{DAYS}} Tage",
     "log_member_add_field_3_title": "Erstellt",
     "error_rate_limited": "Sie senden Interaktionen zu schnell! Bitte versuchen Sie es in {{SECONDS}} Sekunden erneut. *Aunto wird dir erst wieder antworten, wenn {{SECONDS}} Sekunden vergangen sind.*",
-    "error_objected": "Hey {{USER}}! Anscheinend haben Sie verlangt, dass wir die Verarbeitung Ihrer Daten einstellen, daher können Sie _ leider nicht verwenden. Wenn Sie der Meinung sind, dass dies ein Fehler ist, oder Ihre Meinung geändert haben, [treten Sie unserem Support-Server bei](https://auunto.xyz/support) und erstellen Sie ein Ticket.\n\nWenn Sie derzeit einem Server beitreten möchten, müssen Sie sich an den Administratoren des Servers, dem Sie beitreten, um Hilfe."
+    "error_objected": "Anscheinend haben Sie verlangt, dass wir die Verarbeitung Ihrer Daten einstellen, daher können Sie _ leider nicht verwenden. Wenn Sie der Meinung sind, dass dies ein Fehler ist, oder Ihre Meinung geändert haben, [treten Sie unserem Support-Server bei](https://auunto.xyz/support) und erstellen Sie ein Ticket.\n\nWenn Sie derzeit einem Server beitreten möchten, müssen Sie sich an den Administratoren des Servers, dem Sie beitreten, um Hilfe."
 }
